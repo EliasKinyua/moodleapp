@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
-  "version": "3.8.1",
-  "description": "The official app for Moodle.",
+  "name": "reomtelearn",
+  "version": "1.0.0",
+  "description": "Collaborative Virtual Learning Environment",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Elias Kinyus.",
+    "email": "elias@eli-consult.com"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
